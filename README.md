@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Coders-King-SSG
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Python and C#.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me shouryarnc2009@gmail.com
